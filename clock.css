@@ -14,8 +14,8 @@ body{
 }
 
 #date-time:hover{
-  background-color: #6c026a;
-  box-shadow:0 0 20px #6c026a;
+  background-color: #e014dd;
+  box-shadow:0 0 20px #e014dd;
   cursor: pointer; 
 }
 
@@ -23,7 +23,7 @@ body{
  
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Open Sans', 'Helvetica Neue', sans-serif, serif;
   border: 5px solid;
-  border-color:#6c026a;
+  border-color:#e014dd;
   padding: 30px 30px;
   border-radius: 10px;
   transition: background-color 0.5s, box-shadow 0.5s;
